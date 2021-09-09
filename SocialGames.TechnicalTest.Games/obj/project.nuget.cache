@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aURtPhNlPEZCxiEFlCWypt48nsYBvqf2n5eAv74cNKqTJnZusOVQ9Gum0EkltVU6mkPPtV9DoiAw9w7yHTXEkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RafaelAlamanac\\Desktop\\Pruebas\\SocialGames.TechnicalTest\\SocialGames.TechnicalTest\\SocialGames.TechnicalTest.Games\\SocialGames.TechnicalTest.Games.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RafaelAlamanac\\.nuget\\packages\\sonaranalyzer.csharp\\8.25.0.33663\\sonaranalyzer.csharp.8.25.0.33663.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\bin\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.deps.json
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\bin\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.dll
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\bin\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.pdb
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\bin\Debug\netstandard2.0\SocialGames.TechnicalTest.Games.dll
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\bin\Debug\netstandard2.0\SocialGames.TechnicalTest.Games.pdb
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.csproj.AssemblyReference.cache
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.AssemblyInfoInputs.cache
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.AssemblyInfo.cs
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.csproj.CopyComplete
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.dll
+C:\Users\RafaelAlamanac\Desktop\Pruebas\SocialGames.TechnicalTest\SocialGames.TechnicalTest\SocialGames.TechnicalTest.Api\obj\Debug\netstandard2.0\SocialGames.TechnicalTest.Api.pdb
